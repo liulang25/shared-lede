@@ -34,5 +34,5 @@
   "xiaomi-4c": ["1", "ramips", "mt76x8", "xiaomi_mi-router-4c"],
   "miwifi-3c": ["1", "ramips", "mt76x8", "xiaomi_miwifi-3c"],
   "miwifi-nano": ["1", "ramips", "mt76x8", "xiaomi_miwifi-nano"],
-  "4A test": ["5", "ramips", "mt7621", "xiaomi_mi-router-4a-gigabit"]
+  "cmcc_rax3000m": ["5", "mediatek", "mt7981", "cmcc_rax3000m"]
 }
