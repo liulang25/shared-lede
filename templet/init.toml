@@ -11,12 +11,12 @@
 
 # board, subtarget, device, base are required, others are optional
 
-board = "qualcommax"
-subtarget = "ipq807x"
-device = "xiaomi_ax9000"
+board = "mediatek"
+subtarget = "mt7981"
+device = "cmcc_rax3000m"
 base = "https://git.openwrt.org/openwrt/openwrt.git@master"
 
-device_name = "xiaomi ax9000"
+device_name = "cmcc_rax3000m"
 app_path = "package/_supply_packages"
 git_app = [
   "https://github.com/jerrykuku/luci-theme-argon.git",
@@ -26,4 +26,4 @@ git_app = [
   "https://github.com/xiaorouji/openwrt-passwall2.git"
 ]
 login_ip = "192.168.21.1"
-login_pwd = "00009999"
+login_pwd = ""
