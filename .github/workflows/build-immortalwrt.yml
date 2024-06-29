@@ -52,7 +52,7 @@ on:
           - 'xiaomi-4c'
           - 'miwifi-3c'
           - 'miwifi-nano'
-          - '4A test'
+          - 'cmcc_rax3000m'
       branch:
         description: '选择版本'
         required: true
