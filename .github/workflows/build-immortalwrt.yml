@@ -52,7 +52,7 @@ on:
           - 'xiaomi-4c'
           - 'miwifi-3c'
           - 'miwifi-nano'
-          - 'cmcc_rax3000m'
+          - 'CMCC RAX3000M NAND'
       branch:
         description: '选择版本'
         required: true
