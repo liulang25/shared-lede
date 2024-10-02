@@ -12,11 +12,11 @@
 # board, subtarget, device, base are required, others are optional
 
 board = "mediatek"
-subtarget = "mt7981"
-device = "cmcc_rax3000m"
+subtarget = "filogic"
+device = "CMCC RAX3000M NAND"
 base = "https://git.openwrt.org/openwrt/openwrt.git@master"
 
-device_name = "cmcc_rax3000m"
+device_name = "CMCC RAX3000M NAND"
 app_path = "package/_supply_packages"
 git_app = [
   "https://github.com/jerrykuku/luci-theme-argon.git",
@@ -25,5 +25,5 @@ git_app = [
   "https://github.com/xiaorouji/openwrt-passwall.git",
   "https://github.com/xiaorouji/openwrt-passwall2.git"
 ]
-login_ip = "192.168.21.1"
+login_ip = "192.168.2.1"
 login_pwd = ""
