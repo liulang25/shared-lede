@@ -1,0 +1,13 @@
+board = " mediatek/filogic"
+subtarget = " mt7981"
+device = " CMCC RAX3000M"
+base = "https://git.openwrt.org/openwrt/openwrt.git@master"
+
+device_name = " CMCC RAX3000M"
+app_path = "package/_supply_packages"
+git_app = [
+  "https://github.com/jerrykuku/luci-theme-argon.git",
+  "https://github.com/jerrykuku/luci-app-argon-config.git",
+]
+login_ip = "192.168.21.1"
+login_pwd = "00009999"
