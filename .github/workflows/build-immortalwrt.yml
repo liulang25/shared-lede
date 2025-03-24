@@ -59,8 +59,8 @@ on:
         options:
           - 'openwrt-24.10'
           - 'openwrt-23.05'
+          - 'openwrt-22.03'
           - 'openwrt-21.02'
-          - 'openwrt-24.10'
           - 'master'
       latest_tag:
         description: '切换到最近稳定版本(master版本无)'
