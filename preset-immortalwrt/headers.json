@@ -34,5 +34,5 @@
   "xiaomi-4c": ["1", "ramips", "mt76x8", "xiaomi_mi-router-4c"],
   "miwifi-3c": ["1", "ramips", "mt76x8", "xiaomi_miwifi-3c"],
   "miwifi-nano": ["1", "ramips", "mt76x8", "xiaomi_miwifi-nano"]
-  "cmcc-rax3000m": ["2", "mediatek", "filogic", "cmcc_rax3000m"]
+  "konka_komi-a31": ["2", "mediatek", "filogic", "konka_komi-a31"]
 }
