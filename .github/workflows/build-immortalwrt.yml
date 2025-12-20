@@ -52,7 +52,7 @@ on:
           - 'xiaomi-4c'
           - 'miwifi-3c'
           - 'miwifi-nano'
-          - 'cmcc-rax3000m'      
+          - 'konka_komi-a31'      
       branch:
         description: '选择版本'
         required: true
